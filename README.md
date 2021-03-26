@@ -1,6 +1,6 @@
 # Tolga Kara
 
-Frontend engineer based in Berlin, Germany.
+Frontend developer based in Berlin, Germany.
 
 [E-Mail](tolgakara2.0@gmail.com)
 [GitHub](https://github.com/TolgaKara)
