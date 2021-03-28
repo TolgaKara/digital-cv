@@ -29,15 +29,15 @@ _**Technologies used:**_ PHP, Laravel & Bootstrap 4
 
 _Increased productivity of freelancers by developed an automatic time tracking application._
 
-- Interviewed 40+ developers to clarified the needs of developers.
-- Researched to the relationship between time tracking and productivity.
+- Interviewed 40+ students to clarify the needs of the application.
+- Researched the relationship between time tracking and productivity.
 - Designed a web application with UI & UX in mind.
 
 _**Technologies used:**_ Django, PostgreSQL & Bootstrap 4
 
 **[NoiceJobs](https://github.com/NoiceJobs/NoiceJobs)**
 
-_Job platform which ease an up the process of finding qualified developers and qualified companies._
+_Job platform which simplilfies the process of finding qualified developers and qualified companies._
 
 - Teamed up with 2 excellent and motivated students.
 - Defined low-fidelity prototypes to illustrated 4 key features of the application.
